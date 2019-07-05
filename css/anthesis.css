@@ -1,0 +1,1261 @@
+.container-pq{
+    display: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+@media(max-width: 2088px) {
+    .bg{
+        background-image: url('../img/gd/BG-01.png');
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+    }
+    .dam{
+        width: 150px;
+        height: 150px;
+        margin-top: 130px;
+        margin-left: 30px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: -80px;
+        width: 340px;
+        height: 70px;
+        
+    }
+    
+    .perfil{
+        margin-top: 160px;
+        margin-left: 0px;
+        width: 200px;
+        height: 80px;
+        
+    }
+    
+    
+    .conteudo{
+        width: 100%;
+        font-size: 11px;
+        text-align: right;
+        margin-top: 30px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .cv{
+        width: 400px;
+        font-size: 11px;
+        margin-top: -400px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 120px;
+    }
+    
+    .Livro{
+        width: 500px;
+        height: 580px;
+        margin-top: 130px;
+        display: block;
+        margin-left: 18px;
+    }
+    
+    .btn{
+        display: block;
+        margin-top: 100px;
+        margin-left: 0px;
+        
+    }
+    
+    
+    a{
+        color: white;
+    }
+    
+    a:hover{
+        color: white;
+    }
+    
+    a:link{
+        text-decoration: none;
+    }
+    
+    .descricao{
+        color: white;
+        margin-top: 170px;
+        margin-left: 250px;
+    }
+    
+    .bmi{
+        margin-top: 110px;
+        margin-left: 260px;
+        width: 100px;
+        height: 25px;
+    }
+    
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 120px;
+        margin-left: 160px;
+        color: white;
+    }
+}
+
+
+@media(max-width: 1921px) {
+
+    .dam{
+        width: 150px;
+        height: 150px;
+        margin-top: 130px;
+        margin-left: 0px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: -20px;
+        width: 275px;
+        height: 70px;
+        
+    }
+    
+    .perfil{
+        margin-top: 150px;
+        margin-left: -30px;
+        width: 190px;
+        height: 70px;
+        
+    }
+    
+    
+    .conteudo{
+        width: 100%;
+        font-size: 11px;
+        text-align: right;
+        margin-top: 30px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .cv{
+        width: 400px;
+        font-size: 11px;
+        margin-top: -400px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 80px;
+    }
+    
+    .Livro{
+        width: 500px;
+        height: 580px;
+        margin-top: 130px;
+        display: block;
+        margin-left: 18px;
+    }
+    
+    .btn{
+        display: block;
+        margin-top: 100px;
+        margin-left: 0px;
+        
+    }
+    
+    
+    a{
+        color: white;
+    }
+    
+    a:hover{
+        color: white;
+    }
+    
+    a:link{
+        text-decoration: none;
+    }
+    
+    .descricao{
+        color: white;
+        margin-top: 170px;
+        margin-left: 250px;
+    }
+    
+    .bmi{
+        margin-top: 110px;
+        margin-left: 240px;
+        width: 100px;
+        height: 25px;
+    }
+    
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 120px;
+        margin-left: 120px;
+        color: white;
+        }
+    }
+
+
+@media(max-width: 1441px) {
+ 
+    .dam{
+        width: 150px;
+        height: 150px;
+        margin-top: 130px;
+        margin-left: 0px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: -20px;
+        width: 275px;
+        height: 70px;
+        
+    }
+    
+    .perfil{
+        margin-top: 150px;
+        margin-left: -60px;
+        width: 190px;
+        height: 70px;
+        
+    }
+   
+    
+    .conteudo{
+        width: 100%;
+        font-size: 11px;
+        text-align: right;
+        margin-top: 30px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .cv{
+        width: 400px;
+        font-size: 11px;
+        margin-top: -400px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 60px;
+    }
+    
+    .Livro{
+        width: 500px;
+        height: 580px;
+        margin-top: 130px;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .btn{
+        display: block;
+        margin-top: 100px;
+        margin-left: 0px;
+        
+    }
+    
+    
+    a{
+        color: white;
+    }
+    
+    a:hover{
+        color: white;
+    }
+    
+    a:link{
+        text-decoration: none;
+    }
+    
+    .descricao{
+        color: white;
+        margin-top: 170px;
+        margin-left: 250px;
+    }
+    
+    .bmi{
+        margin-top: 110px;
+        margin-left: 250px;
+        width: 100px;
+        height: 25px;
+    }
+    
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 110px;
+        margin-left: 80px;
+        color: white;
+        }
+    }
+    
+ 
+
+@media(max-width: 1367px) {
+    .dam{
+        width: 150px;
+        height: 150px;
+        margin-top: 130px;
+        margin-left: 40px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: 30px;
+        width: 220px;
+        height: 50px;
+        
+    }
+    
+    .perfil{
+        margin-top: 160px;
+        margin-left: -80px;
+        width: 180px;
+        height: 60px;
+        
+    }
+    
+    .conteudo{
+        width: 100%;
+        font-size: 11px;
+        text-align: right;
+        margin-top: 30px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .cv{
+        width: 400px;
+        font-size: 11px;
+        margin-top: -300px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 40px;
+    }
+    
+    .Livro{
+        width: 400px;
+        height: 480px;
+        margin-top: 150px;
+        display: block;
+        margin-left: 30px;
+    }
+    
+    
+    a{
+        color: white;
+    }
+    
+    a:hover{
+        color: white;
+    }
+    
+    a:link{
+        text-decoration: none;
+    }
+    
+    .descricao{
+        color: white;
+        margin-top: 170px;
+        margin-left: 250px;
+    }
+
+    .btn{
+        display: block;
+        margin-top: 80px;
+        margin-left: 0px;
+        
+    }
+    
+    .bmi{
+        margin-top: 80px;
+        margin-left: 220px;
+        width: 100px;
+        height: 25px;
+    }
+    
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 90px;
+        margin-left: 80px;
+        color: white;
+        }
+    }
+  
+
+
+  @media(max-width: 1281px) {
+    .dam{
+        width: 150px;
+        height: 150px;
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: 0px;
+        width: 260px;
+        height: 70px;
+        
+    }
+    
+    .perfil{
+        margin-top: 160px;
+        margin-left: -100px;
+        width: 180px;
+        height: 70px;
+        
+    }
+    .conteudo{
+        width: 100%;
+        font-size: 10px;
+        text-align: right;
+        margin-top: 20px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .cv{
+        width: 400px;
+        font-size: 11px;
+        margin-top: -300px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 10px;
+    }
+    
+    .Livro{
+        width: 400px;
+        height: 480px;
+        margin-top: 120px;
+        display: block;
+        margin-left: 40px;
+    }
+   
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 120px;
+        margin-left: 50px;
+        color: white;
+    }
+
+    .bmi{
+        margin-top: 110px;
+        margin-left: 180px;
+        width: 100px;
+        height: 25px;
+    }
+
+    .btn{
+        display: block;
+        margin-top: 100px;
+        margin-left: 0px;
+        
+    }
+    
+  }
+
+  @media(max-width: 1025px) {
+    .bg{
+        background-image: url('../img/gd/BG-01.png'); 
+        background-size: 100%;
+    }
+    .dam{
+        width: 100px;
+        height: 100px;
+        margin-top: 120px;
+        margin-left: 50px;
+    }
+    
+    .titulo{
+        margin-top: 150px;
+        margin-left: 0px;
+        width: 220px;
+        height: 60px;
+        
+    }
+    
+    .perfil{
+        margin-top: 150px;
+        margin-left: -100px;
+        width: 180px;
+        height: 70px;
+        
+    }
+    
+    .conteudo{
+        width: 100%;
+        font-size: 8px;
+        text-align: right;
+        margin-top: 20px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 10px;
+    }
+    
+    
+
+    .cv{
+        width: 300px;
+        font-size: 10px;
+        margin-top: -250px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        margin-left: 0px;
+    }
+    
+    .Livro{
+        width: 320px;
+        height: 380px;
+        margin-top: 130px;
+        display: block;
+        margin-left: 20px;
+    }
+   
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        margin-top: 100px;
+        margin-left: 20px;
+        color: white;
+    }
+
+    .bmi{
+        margin-top: 100px;
+        margin-left: 140px;
+        width: 75px;
+        height: 20px;
+    }
+
+    .btn{
+        display: block;
+        margin-top: 110px;
+        margin-left: -50px;
+        
+    }
+    
+  }
+
+  
+   
+ 
+/*************** MOBILE ********************************************************************/
+@media(max-width: 813px) {
+    .container{
+        display: none;
+    }
+    .container-pq{
+       width: 100%;
+       display: block;
+       margin: 0px;
+       padding-left: 20px;
+       padding-right: 20px;
+   }
+
+   .bg{
+       background-image: url('../img/pq/BG-Mob-813.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 40px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin: 20px auto;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+ @media(max-width: 737px) {
+    .container{
+        display: none;
+    }
+  
+   .bg{
+       background-image: url('../img/pq/BG-Mob-737.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 100px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin: 20px auto;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+
+ @media(max-width: 668px) {
+    .container{
+        display: none;
+    }
+  
+   .bg{
+       background-image: url('../img/pq/BG-Mob-667.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 80px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin: 20px auto;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+@media(max-width: 641px) {
+    .container{
+        display: none;
+    }
+  
+   .bg{
+       background-image: url('../img/pq/BG-Mob-641.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 60px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin: 20px auto;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+
+  @media(max-width: 569px) {
+     .container{
+         display: none;
+     }
+
+    .bg{
+        background-image: url('../img/pq/BG-Mob-569.png'); 
+        width: 100%;
+        height: auto;
+    }
+    .dam{
+        width: 130px;
+        height: 130px;
+        display: block;
+        margin: 100px auto;
+
+        
+    }
+    
+    .titulo-mobile{
+        display: block;
+        margin: 130px auto;
+        width: 275px;
+        height: 70px;
+        margin-bottom: 30px;
+    }
+    
+    .perfil-mobile{
+        display: block;
+        margin: 5px auto;
+        width: 190px;
+        height: 70px;
+        
+    }
+    
+    .conteudo{
+        margin: 10px auto;
+        font-size: 12px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        display: block;
+        text-align: center;
+    }
+    
+    
+
+    .cv{
+        font-size: 10px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        margin: 3px auto;
+        text-align: center;
+    }
+    
+    .Livro{
+        width: 240px;
+        height: 280px;
+        display: block;
+        margin: 20px auto;
+    }
+   
+    .unibes{
+        width: 300px;
+        font-size: 11px;
+        color: white;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .bmi{
+       display: block;
+       margin: 10px auto;
+        width: 75px;
+        height: 20px;
+    }
+
+    .btn{
+        display: block;
+        margin-top: 0px;
+        margin: 0px auto;
+        
+    }
+    
+  }
+
+  @media(max-width: 415px) {
+    .container{
+        display: none;
+    }
+
+
+   .bg{
+       background-image: url('../img/pq/BG-Mob-415.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 80px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin-top: 20px;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+  @media(max-width: 376px) {
+    .container{
+        display: none;
+    }
+
+
+   .bg{
+       background-image: url('../img/pq/BG-Mob-376.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 40px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin-top: 20px;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
+
+  @media(max-width: 321px) {
+    .container{
+        display: none;
+    }
+
+
+   .bg{
+       background-image: url('../img/pq/BG-Mob-321.png'); 
+       width: 100%;
+       height: auto;
+   }
+   .dam{
+       width: 130px;
+       height: 130px;
+       display: block;
+       margin: 40px auto;
+
+       
+   }
+   
+   .titulo-mobile{
+       display: block;
+       margin: 130px auto;
+       width: 275px;
+       height: 70px;
+       margin-bottom: 30px;
+   }
+   
+   .perfil-mobile{
+       display: block;
+       margin: 5px auto;
+       width: 190px;
+       height: 70px;
+       
+   }
+   
+   .conteudo{
+       margin: 10px auto;
+       font-size: 12px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       display: block;
+       text-align: center;
+   }
+   
+   
+
+   .cv{
+       font-size: 10px;
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       margin: 3px auto;
+       text-align: center;
+   }
+   
+   .Livro{
+       width: 240px;
+       height: 280px;
+       display: block;
+       margin: 20px auto;
+   }
+  
+   .unibes{
+       width: 300px;
+       font-size: 11px;
+       color: white;
+       margin-top: 20px;
+       text-align: center;
+   }
+
+   .bmi{
+      display: block;
+      margin: 10px auto;
+       width: 75px;
+       height: 20px;
+   }
+
+   .btn{
+       display: block;
+       margin-top: 0px;
+       margin: 0px auto;
+       
+   }
+   
+ }
+
